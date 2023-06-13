@@ -1,6 +1,6 @@
 wg.py
 ==========
-There are two different waveguides in IMECAS SiN pdk, which are defined as follows:
+There are two different waveguides in SITRI pdk, which are defined as follows:
 
 #. ``Channel``
     #. ``Channel.C``

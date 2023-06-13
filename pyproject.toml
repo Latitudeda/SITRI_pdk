@@ -3,6 +3,6 @@ requires = []
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "IMECAS SIN pdk documentation"
+name = "SITRI pdk documentation"
 authors = [{ name = "kevinchen", email = "kevin_chen@latitudeda.com" }]
 dynamic = ["version", "description"]

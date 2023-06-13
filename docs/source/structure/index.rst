@@ -1,7 +1,7 @@
 PDK structure
 ======================
 
-Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on IMECAS SiN design rules and technology settings.
+Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on SITRI design rules and technology settings.
 
 ``IMECAS_SiN_pdk`` package includes four subfolders: ``components``, ``examples``, ``technology``, and ``util``.
 
@@ -17,7 +17,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``technology``
 
-    * Store the technology setting which matched the IMECAS SiN design rules. We recommend users not to change the settings in technology folder.
+    * Store the technology setting which matched the SITRI design rules. We recommend users not to change the settings in technology folder.
 
     * See chapter ``Technology setting`` for more specific definition.
 
