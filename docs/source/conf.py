@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'SITRI pdk documentation'
+project = 'SITRI PDK Documentation'
 copyright = '2023, Latitudeda.com'
 author = 'latitudeda.com'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
