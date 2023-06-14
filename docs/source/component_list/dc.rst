@@ -8,13 +8,11 @@ Sitri_Si_DC_Cband_TE_0p5_99_1_2p27_Blackbox
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
 +=======+=============================+=============+
-|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
+|OPT_1  | TECH.WG.STRIP.C.WIRE        |     180     |
 +-------+-----------------------------+-------------+
-|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
+|OPT_2  | TECH.WG.Channel.C.WIRE      |     0       |
 +-------+-----------------------------+-------------+
-| out1  | TECH.WG.Channel.C.WIRE      |     0       |
-+-------+-----------------------------+-------------+
-| out2  | TECH.WG.Channel.C.WIRE      |      0      |
+|OPT_3  | TECH.WG.Channel.C.WIRE      |      0      |
 +-------+-----------------------------+-------------+
 
 Sitri_Si_DC_Cband_TE_0p5_99_5_9p08_Blackbox
@@ -24,13 +22,11 @@ Sitri_Si_DC_Cband_TE_0p5_99_5_9p08_Blackbox
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
 +=======+=============================+=============+
-|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
+|OPT_1  | TECH.WG.STRIP.C.WIRE        |     180     |
 +-------+-----------------------------+-------------+
-|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
+|OPT_2  | TECH.WG.STRIP.C.WIRE        |     0       |
 +-------+-----------------------------+-------------+
-| out1  | TECH.WG.Channel.C.WIRE      |     0       |
-+-------+-----------------------------+-------------+
-| out2  | TECH.WG.Channel.C.WIRE      |      0      |
+|OPT_3  | TECH.WG.STRIP.C.WIRE        |      0      |
 +-------+-----------------------------+-------------+
 
 Sitri_Si_DC_Oband_TE_0p41_95_5_20p7_Blackbox
@@ -40,13 +36,11 @@ Sitri_Si_DC_Oband_TE_0p41_95_5_20p7_Blackbox
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
 +=======+=============================+=============+
-|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
+|OPT_1  | TECH.WG.STRIP.O.WIRE        |     180     |
 +-------+-----------------------------+-------------+
-|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
+|OPT_2  | TECH.WG.STRIP.O.WIRE        |     0       |
 +-------+-----------------------------+-------------+
-| out1  | TECH.WG.Channel.C.WIRE      |     0       |
-+-------+-----------------------------+-------------+
-| out2  | TECH.WG.Channel.C.WIRE      |      0      |
+|OPT_3  | TECH.WG.STRIP.O.WIRE        |      0      |
 +-------+-----------------------------+-------------+
 
 
@@ -57,13 +51,11 @@ Sitri_Si_DC_Oband_TE_0p41_99_1_6p3_Blackbox
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
 +=======+=============================+=============+
-|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
+|OPT_1  | TECH.WG.STRIP.O.WIRE        |     180     |
 +-------+-----------------------------+-------------+
-|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
+|OPT_2  | TECH.WG.STRIP.O.WIRE        |     0       |
 +-------+-----------------------------+-------------+
-| out1  | TECH.WG.Channel.C.WIRE      |     0       |
-+-------+-----------------------------+-------------+
-| out2  | TECH.WG.Channel.C.WIRE      |      0      |
+|OPT_3  | TECH.WG.STRIP.O.WIRE        |      0      |
 +-------+-----------------------------+-------------+
 
 
