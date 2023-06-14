@@ -1,9 +1,9 @@
 Directional Couplers (DC)
 ################################
 
-SIN_DC_TE_C
-***************
-.. image:: ../images/SIN_DC_TE_C.png
+Sitri_Si_DC_Cband_TE_0p5_99_1_2p27_Blackbox
+************************************************
+.. image:: ../images/Sitri_Si_DC_Cband_TE_0p5_99_1_2p27_Blackbox.png
 
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
@@ -17,9 +17,9 @@ SIN_DC_TE_C
 | out2  | TECH.WG.Channel.C.WIRE      |      0      |
 +-------+-----------------------------+-------------+
 
-SIN_DC_TE_O
-******************
-.. image:: ../images/SIN_DC_TE_O.png
+Sitri_Si_DC_Cband_TE_0p5_99_5_9p08_Blackbox
+************************************************
+.. image:: ../images/Sitri_Si_DC_Cband_TE_0p5_99_5_9p08_Blackbox.png
 
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
@@ -32,5 +32,39 @@ SIN_DC_TE_O
 +-------+-----------------------------+-------------+
 | out2  | TECH.WG.Channel.C.WIRE      |      0      |
 +-------+-----------------------------+-------------+
+
+Sitri_Si_DC_Oband_TE_0p41_95_5_20p7_Blackbox
+************************************************
+.. image:: ../images/Sitri_Si_DC_Oband_TE_0p41_95_5_20p7_Blackbox.png
+
++-------+-----------------------------+-------------+
+| ports |     waveguide type          | orientation |
++=======+=============================+=============+
+|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
++-------+-----------------------------+-------------+
+|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
++-------+-----------------------------+-------------+
+| out1  | TECH.WG.Channel.C.WIRE      |     0       |
++-------+-----------------------------+-------------+
+| out2  | TECH.WG.Channel.C.WIRE      |      0      |
++-------+-----------------------------+-------------+
+
+
+Sitri_Si_DC_Oband_TE_0p41_99_1_6p3_Blackbox
+************************************************
+.. image:: ../images/Sitri_Si_DC_Oband_TE_0p41_99_1_6p3_Blackbox.png
+
++-------+-----------------------------+-------------+
+| ports |     waveguide type          | orientation |
++=======+=============================+=============+
+|  in1  | TECH.WG.Channel.C.WIRE      |     180     |
++-------+-----------------------------+-------------+
+|  in2  | TECH.WG.Channel.C.WIRE      |      180    |
++-------+-----------------------------+-------------+
+| out1  | TECH.WG.Channel.C.WIRE      |     0       |
++-------+-----------------------------+-------------+
+| out2  | TECH.WG.Channel.C.WIRE      |      0      |
++-------+-----------------------------+-------------+
+
 
 

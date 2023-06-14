@@ -1,9 +1,9 @@
 Crossings
 ###########
 
-SIN_Crossing_TE_C
-******************
-.. image:: ../images/SIN_Crossing_TE_C.png
+Sitri_Si_Crossing_Cband_TE_0p5_PSO_1p69_Blackbox
+******************************************************
+.. image:: ../images/Sitri_Si_Crossing_Cband_TE_0p5_PSO_1p69_Blackbox.png
 
 +-------+------------------------+-------------+
 | ports |     waveguide type     | orientation |
@@ -18,9 +18,9 @@ SIN_Crossing_TE_C
 +-------+------------------------+-------------+
 
 
-SIN_Crossing_TE_O
-******************
-.. image:: ../images/SIN_Crossing_TE_O.png
+Sitri_Si_Crossing_Oband_TE_0p41_S_1p51_Blackbox
+********************************************************
+.. image:: ../images/Sitri_Si_Crossing_Oband_TE_0p41_S_1p51_Blackbox.png
 
 +-------+-----------------------------+-------------+
 | ports |     waveguide type          | orientation |
