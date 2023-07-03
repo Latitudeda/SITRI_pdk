@@ -11,6 +11,7 @@ Component library
    mod
    pbs
    pd
+   frame
 
 
 
